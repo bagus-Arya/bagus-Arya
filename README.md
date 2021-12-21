@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 My name is Arya and I'm a Product developer. I'm from Bali.
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=blue&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VisualStudio-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=black&color=#A81D33)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&color=#A81D33)
+![](https://img.shields.io/badge/Editor-VisualStudio-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=#A81D33)
 
 ## &#x1f4c8; GitHub Stats
 
