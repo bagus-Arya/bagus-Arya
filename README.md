@@ -19,7 +19,7 @@ My name is Arya and I'm a Product developer. I'm from Bali.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=21759B)
-![](https://img.shields.io/badge/Editor-Wordpress-informational?style=flat&logo=wordpress&logoColor=blue&color=21759B)
+![](https://img.shields.io/badge/Editor-Wordpress-informational?style=flat&logo=wordpress&logoColor=white&color=21759B)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&color=21759B)
 ![](https://img.shields.io/badge/Editor-VisualStudio-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=21759B)
 
