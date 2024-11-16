@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <div class="column">
     <a>
       ![Noname's GitHub stats]()
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=bagus-Arya&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5](https://github-readme-stats.vercel.app/api?username=bagus-Arya&theme=github_dark&show_icons=true)" />
+  <img align="center" src="[https://github-readme-stats.vercel.app/api?username=bagus-Arya&theme=github_dark&show_icons=true]" />
 </a>
   </div>
 </div> 
