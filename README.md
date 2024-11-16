@@ -31,13 +31,10 @@ Here are some ideas to get you started:
 </a>
   </div>
   <div class="column">
-    <a>
-      ![Noname's GitHub stats]()
-  <img align="center" src="[https://github-readme-stats.vercel.app/api?username=bagus-Arya&theme=github_dark&show_icons=true]" />
-</a>
   </div>
 </div> 
 
+![Noname's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagus-Arya&show_icons=true&theme=radical)
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
