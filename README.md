@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 </a>
 
 
+![Noname's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagus-Arya&theme=github_dark&show_icons=true)
+
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
