@@ -13,29 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
-
-My name is Arya and I'm a Product developer. I'm from Bali.
+🔭 I’m currently working on Developer
+🌱 I’m currently learning AI
+⚡ Fun fact: love coffee
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=21759B)
 ![](https://img.shields.io/badge/Editor-Wordpress-informational?style=flat&logo=wordpress&logoColor=white&color=21759B)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&color=21759B)
-![](https://img.shields.io/badge/Editor-VisualStudio-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=21759B)
 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/bagus-Arya/bagus-Arya">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagus-Arya&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </a>
-
-<a href="https://github.com/bagus-Arya/pkl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bagus-Arya&repo=pkl&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/bagus-Arya/ledControl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bagus-Arya&repo=ledControl&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>      
 
 
 <!-- Resources -->
