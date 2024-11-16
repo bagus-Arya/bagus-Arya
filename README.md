@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on Developer
+🔭 I’m currently working as a Developer
 🌱 I’m currently learning AI
-⚡ Fun fact: love coffee
+⚡ Keep it Simple
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=21759B)
