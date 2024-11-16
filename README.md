@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=21759B)
-![](https://img.shields.io/badge/Editor-Wordpress-informational?style=flat&logo=wordpress&logoColor=white&color=21759B)
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&logo=archlinux&logoColor=%231793D1&labelColor=%231793D1&color=%23000000)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&color=21759B)
 
 ## &#x1f4c8; GitHub Stats
