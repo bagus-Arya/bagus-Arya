@@ -24,12 +24,17 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/bagus-Arya/bagus-Arya">
+<div class="row">
+  <div class="column">
+    <a href="https://github.com/bagus-Arya/bagus-Arya">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagus-Arya&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </a>
+  </div>
+  <div class="column">
+    ![Noname's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagus-Arya&theme=github_dark&show_icons=true)
+  </div>
+</div> 
 
-
-![Noname's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagus-Arya&theme=github_dark&show_icons=true)
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
