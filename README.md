@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=FFFFFF&color=000000)
 ![](https://img.shields.io/badge/OS-Arch%20Linux-informational?style=flat&logo=archlinux&logoColor=1793D1&color=1793D1)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&color=21759B)
+[![runs with Expo Go](https://img.shields.io/badge/Runs%20with%20Expo%20Go-000.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://expo.dev/client)
+
 
 ## &#x1f4c8; GitHub Stats
 
