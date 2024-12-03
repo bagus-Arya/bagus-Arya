@@ -25,17 +25,7 @@ Here are some ideas to get you started:
 
 
 ## &#x1f4c8; GitHub Stats
-
-<div class="row">
-  <div class="column">
-    <a href="https://github.com/bagus-Arya/bagus-Arya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagus-Arya&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-</a>
-  </div>
-  <div class="column">
-  </div>
-</div> 
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bagus-Arya&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3)
 ![Noname's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagus-Arya&show_icons=true&theme=radical)
 
 <!-- Resources -->
